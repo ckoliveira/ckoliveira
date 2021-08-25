@@ -1,4 +1,10 @@
 ### Hi there 👋
+![Erick's GitHub stats](https://github-readme-stats.vercel.app/api?username=ckoliveira&show_icons=true&theme=merko)
+
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ckoliveira&show_icons=true&theme=merko)](https://github.com/ckoliveira/github-readme-stats) 
+-->
+<!--
+**ckoliveira/ckoliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <!--
 **ckoliveira/ckoliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
